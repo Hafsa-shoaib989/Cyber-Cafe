@@ -1,0 +1,44 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>Lenovo Legion(1) (1).jpg</file>
+    <file>MSI Gaming.jpg</file>
+    <file>HP Omen.jpg</file>
+    <file>Asus ROG.jpg</file>
+    <file>Alienware.jpg</file>
+    <file>Lenovo IdeaCentre AIO(1).jpg</file>
+    <file>LG Ultrafine AIO.jpeg</file>
+    <file>Sony VAIO Tap All-in-One.jpeg</file>
+    <file>Acer Aspire All-in-One.jpg</file>
+    <file>Dell Inspiron All-in-One.jpg</file>
+    <file>Dell G Series(1).jpg</file>
+    <file>HP Pavilion All-in-One.jpg</file>
+    <file>Apple iMac.jpg</file>
+    <file>Eclairs.jpg</file>
+    <file>Brownie.jpg</file>
+    <file>Scone.jpg</file>
+    <file>Apple Turnover.jpg</file>
+    <file>Cinnamon Roll.jpg</file>
+    <file>Éclair.jpg</file>
+    <file>Muffin.jpeg</file>
+    <file>Croissant.jpg</file>
+    <file>Filled Donut Holes.jpg</file>
+    <file>Long John.jpg</file>
+    <file>Cruller.jpg</file>
+    <file>Jelly Donut.jpg</file>
+    <file>Sprinkle Donut.jpg</file>
+    <file>Chocolate Donut.jpg</file>
+    <file>Glazed Donut.jpg</file>
+    <file>Turkish Coffee.jpg</file>
+    <file>Flat White.jpg</file>
+    <file>Mocha.jpg</file>
+    <file>Latte.jpg</file>
+    <file>Cappuccino.jpg</file>
+    <file>Americano.jpg</file>
+    <file>Espresso.jpg</file>
+    <file>background.jpg</file>
+    <file>logo.jpeg</file>
+    <file>pics 3.jpeg</file>
+    <file>pic 2.jpeg</file>
+    <file>pic 1.jpeg</file>
+  </qresource>
+</RCC>
