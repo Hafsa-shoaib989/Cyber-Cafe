@@ -4,6 +4,6 @@ Welcome to the GitHub repository for the Cyber Cafe dekstop application, an inno
 Technologies used
 Python - the powerful web framework 🚀
 Pyqt5 - for creating a visually appealing and interactive user interface 🎨
-Getting Started
-Clone the repository 🤝
+Getting Started 
+Clone the repository 🤝 
 Go to the Code folder 📂
